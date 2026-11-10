@@ -1,0 +1,9 @@
+.env
+.env.*
+*.ipynb
+__pycache__/
+*.pyc
+.venv/
+venv/
+.git/
+data/

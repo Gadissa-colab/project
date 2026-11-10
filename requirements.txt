@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+pydantic
+pydantic-settings==2.2.1
+
+!pip install -q pydantic-settings==2.2.1
